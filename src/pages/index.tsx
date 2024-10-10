@@ -7,7 +7,7 @@ const Home: React.FC = () => {
         <title>Миний Портфолио</title>
       </Head>
       <main>
-        <div>Hello World! 123</div>
+        <div>Hello World! 1234</div>
       </main>
     </>
   );
